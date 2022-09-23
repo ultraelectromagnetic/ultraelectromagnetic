@@ -26,6 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bienvenidosantibanez&theme=dark) -->
 
+### stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bienvenidosantibanez&theme=merko&count_private=true&show_icons=true)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bienvenidosantibanez&theme=gruvbox) -->
@@ -46,17 +48,20 @@ You can click the Preview link to take a look at your changes.
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bienvenidosantibanez&theme=dracula) -->
 
 
+
+
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenidosantibanez&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+### normal
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenidosantibanez&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ############################################################################################### -->
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenidosantibanez&langs_count=8&layout=compact&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+### compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenidosantibanez&langs_count=10&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
