@@ -54,14 +54,14 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### normal
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenidosantibanez&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenidosantibanez&langs_count=10&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ############################################################################################### -->
 
 
 ### compact
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenidosantibanez&langs_count=10&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenidosantibanez&langs_count=10&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
