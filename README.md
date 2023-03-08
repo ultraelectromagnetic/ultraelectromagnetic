@@ -21,7 +21,7 @@
 
 
 
-- 👋 Hi, I’m @bienvenidosantibanez
+- 👋 Hi, I’m Neo Gigachad
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate soon
