@@ -1,4 +1,11 @@
+
+<h1 align="center" style="color:green;">Hello World!</h1>
+
+
+
 # hahaha!
+
+
 
 <!-- ############################################################################################### -->
 <!-- ############################################################################################### -->
@@ -23,7 +30,7 @@
 
 - 👋 Hi, I’m Neo Gigachad
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate soon
 - 📫 How to reach me ...
 
