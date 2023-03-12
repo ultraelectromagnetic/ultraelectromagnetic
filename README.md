@@ -22,10 +22,14 @@
 [nietzche lorem ipsum](http://nietzsche-ipsum.com/)
 
 
-[TODO repo tags for this github account](https://www.youtube.com)
-- para madali maghanap
 
 [list of custom repo tags for this github account](https://github.com/ultraelectromagnetic/ultraelectromagnetic-tags-v0)
+- para madali maghanap
+
+
+
+[collaborated repos lists](https://github.com/ultraelectromagnetic/ultraelectromagnetic-tags-v0/blob/masterJesus/myCollaboratedRepoLists.md)
+
 
 
 
